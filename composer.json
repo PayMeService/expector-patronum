@@ -1,12 +1,12 @@
 {
-    "name": "kima92/expector-patronum",
+    "name": "paymeservice/expector-patronum",
     "description": "This is my package expector-patronum",
     "keywords": [
         "kima",
         "laravel",
         "expector-patronum"
     ],
-    "homepage": "https://github.com/kima92/expector-patronum",
+    "homepage": "https://github.com/paymeservice/expector-patronum",
     "license": "MIT",
     "authors": [
         {
